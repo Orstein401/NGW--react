@@ -1,0 +1,7 @@
+.flex{display:flex; justify-content: space-around; margin: 20px; padding: 20px;}
+.card{ background-color: #fafafa; border: 1px solid #ccc; gap:30px; border-radius: 20px; padding: 10px;min-width: 300px; max-width: 400px; margin: 10px;}
+ 
+.card .head{ display: flex;gap:30px}
+.card .head .title h3{margin: 0;}
+.card .description p{margin: 0;}
+.centro { text-align: center;}
